@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Enemybullet.png</Source>
+      <Name>Enemybullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Enemybullet.xnb</Output>
+      <Time>2013-04-24T15:11:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion3.png</Source>
+      <Name>explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\explosion3.xnb</Output>
+      <Time>2013-04-24T15:11:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerBullet.png</Source>
+      <Name>PlayerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\PlayerBullet.xnb</Output>
+      <Time>2013-04-24T15:12:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship.png</Source>
+      <Name>Spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Spaceship.xnb</Output>
+      <Time>2013-04-24T15:12:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2013-04-24T15:16:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health1.png</Source>
+      <Name>health1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\health1.xnb</Output>
+      <Time>2013-04-24T15:32:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health2.png</Source>
+      <Name>health2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\health2.xnb</Output>
+      <Time>2013-04-24T15:32:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health3.png</Source>
+      <Name>health3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\health3.xnb</Output>
+      <Time>2013-04-24T15:32:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LargeAsteroid.png</Source>
+      <Name>LargeAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\LargeAsteroid.xnb</Output>
+      <Time>2013-04-24T20:29:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MediumAsteroid.png</Source>
+      <Name>MediumAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\MediumAsteroid.xnb</Output>
+      <Time>2013-04-24T21:08:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallAsteroid.png</Source>
+      <Name>SmallAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\SmallAsteroid.xnb</Output>
+      <Time>2013-04-24T22:42:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue.png</Source>
+      <Name>Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Blue.xnb</Output>
+      <Time>2013-04-26T12:16:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>green.png</Source>
+      <Name>green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\green.xnb</Output>
+      <Time>2013-04-26T12:16:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Orange.png</Source>
+      <Name>Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Orange.xnb</Output>
+      <Time>2013-04-26T12:16:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pink.png</Source>
+      <Name>Pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Pink.xnb</Output>
+      <Time>2013-04-26T12:16:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red.png</Source>
+      <Name>Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Red.xnb</Output>
+      <Time>2013-04-26T12:16:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>large wolf.png</Source>
+      <Name>large wolf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\large wolf.xnb</Output>
+      <Time>2013-05-02T20:42:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>intro.png</Source>
+      <Name>intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\intro.xnb</Output>
+      <Time>2013-05-02T21:42:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>topBar.png</Source>
+      <Name>topBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\topBar.xnb</Output>
+      <Time>2013-05-03T15:13:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu.png</Source>
+      <Name>Main Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Main Menu.xnb</Output>
+      <Time>2013-05-03T15:26:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Over.png</Source>
+      <Name>Game Over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Game Over.xnb</Output>
+      <Time>2013-05-03T15:34:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Help Menu.png</Source>
+      <Name>Help Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Help Menu.xnb</Output>
+      <Time>2013-05-03T15:47:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2013-05-03T14:36:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\explode.xnb</Output>
+      <Time>2013-05-10T10:08:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playerShoot.wav</Source>
+      <Name>playerShoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\playerShoot.xnb</Output>
+      <Time>2013-05-10T10:12:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>wolf.wav</Source>
+      <Name>wolf</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\wolf.xnb</Output>
+      <Time>2013-05-10T10:12:20+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\InvadersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\InvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Documents\Education\BTEC L3 Diploma\Year 2\Unit 22\PDF Work\game programming\Game Final\Invaders\Invaders\Invaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-04T22:03:30.2371099+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
